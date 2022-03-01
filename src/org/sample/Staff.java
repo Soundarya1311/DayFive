@@ -12,8 +12,9 @@ public class Staff extends Student{
 		 String major = sc.nextLine();
 		 System.out.println("The staff name is " +staffname);
 		 
-		 
-		 
+		}
+	private void staffPortal2() {
+		System.out.println("Staff");
 
 	}
 
