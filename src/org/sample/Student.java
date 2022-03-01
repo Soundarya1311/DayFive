@@ -10,15 +10,11 @@ public class Student {
 		 String sname = sc.nextLine();
 		 System.out.println("Enter your year");
 		 byte year = sc.nextByte();
-		 
-		 
-		 
-		 
-		 
-		 
-		 
-		 
-		 
+	 
+
+	}
+	private void studentPortal2() {
+		System.out.println("Student");
 
 	}
 }
