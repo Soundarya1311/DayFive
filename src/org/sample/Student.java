@@ -12,13 +12,9 @@ public class Student {
 		 byte year = sc.nextByte();
 		 
 		 
-		 
-		 
-		 
-		 
-		 
-		 
-		 
-
+		
+	}
+	private void StudentPortal4() {
+		System.out.println("Student method 4");
 	}
 }
