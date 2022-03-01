@@ -17,4 +17,7 @@ public class Student {
 		System.out.println("Student");
 
 	}
+	private void StudentPortal3() {
+		System.out.println("Student method 3");
+	}
 }
